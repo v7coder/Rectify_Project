@@ -1,7 +1,7 @@
 # Rectify_Project
 Rectify-(Recommend + Simplify) A Recommendation System Using Python
 <br>
-# Author - Vinayak Porje
+Author - Vinayak Porje
 <br>
 ## About Project
 "Rectify," an advanced content-based recommendation system for movies, songs, and books, utilizing Python and a dataset of

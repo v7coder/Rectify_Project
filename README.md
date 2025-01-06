@@ -8,3 +8,12 @@ Author - Vinayak Porje
 5,000+ entries sourced from TMDB and other platform <br>
 * Data Sets: TMDB-Movies_list/
 * Download Python Libraries: Numpy, Pandas, Pickel, Streamlit.
+## Preprocessing Sample
+Tags: 
+* genres
+* id
+* keywords
+* title
+* overview
+* cast
+* crew
